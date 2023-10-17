@@ -5,4 +5,6 @@ because;
 
 this text was written on Linux Machine
 
-в проект был добавлен first.cpp
+UPD1 : в проект был добавлен first.cpp
+
+UPD2 : добавлен second.cpp
