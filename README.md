@@ -4,3 +4,5 @@ because;
 # why not;
 
 this text was written on Linux Machine
+
+в проект был добавлен first.cpp
